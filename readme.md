@@ -1,3 +1,8 @@
-https://facebook.com/profiles/5
+Aprendizado de Express.
 
-5 e chamado de req.params
+## O que foi aprendido?
+- Como usar metodos Post, Get, Put, Delete (CRUD).
+- Interligar tudo com Webpack.
+- Usar EJS.
+- Ganhando experiencia com organizacao de pastas e arquivos.
+- 
